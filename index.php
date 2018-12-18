@@ -35,6 +35,8 @@
     <!-- online-fonts -->
     <link href="//fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,500,500i,700,700i" rel="stylesheet">
     <!-- //online-fonts -->
+
+    <link rel="icon" href="img/logo.png">
 </head>
 
 <body>
@@ -44,7 +46,7 @@
         <header>
             <nav class="navbar navbar-expand-lg navbar-light bg-gradient-secondary pt-3">
                 <h1>
-                    <a class="navbar-brand text-white" href="index.html">
+                    <a class="navbar-brand text-white" href="index.php">
                        <i class="far fa-copyright"></i>
                     </a>
                 </h1>
@@ -55,7 +57,7 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ml-lg-auto text-center">
                         <li class="nav-item active  mr-3 mt-lg-0 mt-3">
-                            <a class="nav-link" href="index.html">Home
+                            <a class="nav-link" href="index.php">Home
                                 <span class="sr-only">(current)</span>
                             </a>
                         </li>
@@ -419,7 +421,7 @@
 					<h3 class="footer-title border-bottom text-uppercase mb-4 pb-3">Quick Links</h3>
 					<ul class="links list-unstyled">
 						<li>
-							<a href="index.html">Home</a>
+							<a href="index.php">Home</a>
 						</li>
 						<li class="my-2">
 							<a href="about.html">About Us</a>
