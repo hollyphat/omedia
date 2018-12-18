@@ -47,7 +47,7 @@
             <nav class="navbar navbar-expand-lg navbar-light bg-gradient-secondary pt-3">
                 <h1>
                     <a class="navbar-brand text-white" href="index.php">
-                       <i class="far fa-copyright"></i>
+                        <img src="images/logo.png" alt="" class="img-responsive">
                     </a>
                 </h1>
                 <button class="navbar-toggler ml-md-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
